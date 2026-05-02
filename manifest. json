@@ -2,7 +2,7 @@
   "name": "My Tasks",
   "short_name": "Tasks",
   "description": "A simple task app built by me",
-  "start_url": "/",
+  "start_url": "/Rokison56/"
   "display": "standalone",
   "background_color": "#f5f5f5",
   "theme_color": "#4CAF50",
